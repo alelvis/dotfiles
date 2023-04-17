@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alphonse.bonnin@gmail.com
+	name = Alphonse Bonnin
